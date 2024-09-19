@@ -1,0 +1,44 @@
+body {
+	background-color: #FFB6C1;
+	font-family: 'Brush Script MT', cursive;
+}
+
+header {
+	background-color: #FF69B4;
+	padding: 20px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 48px;
+	color: #FFFFFF;
+}
+
+main {
+	padding: 20px;
+}
+
+section {
+	margin-bottom: 30px;
+}
+
+section h2 {
+	font-size: 36px;
+	color: #FF69B4;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+footer {
+	background-color: #FF69B4;
+	padding: 20px;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 18px;
+}
